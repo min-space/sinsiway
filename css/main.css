@@ -188,6 +188,7 @@ footer .footer_txt .ir_book:hover { border: 1px solid #36f; background: #36f url
 footer .footer_bottom { opacity: 0.5; border-top: 1px solid rgba(255,255,255,0.3); padding: 50px 0; }
 footer .footer_bottom .inner { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; }
 footer .footer_bottom ul { display: flex; gap: 20px; }
+footer .footer_bottom ul li a{color: #fff;}
 
 @media (max-width:576px) {
   footer .footer_txt > div { flex-direction: column; }
